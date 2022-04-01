@@ -1,2 +1,2 @@
 # AHFrntAndBack
-Storing The Zip Files Foir Updation of Software
+Storing The Zip Files For Updation of Software
